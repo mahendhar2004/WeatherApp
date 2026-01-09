@@ -2,7 +2,7 @@
 
 A beautiful, modern weather application built with **NestJS** backend and **Next.js** frontend, featuring a premium glassmorphism UI design.
 
-![Weather App Screenshot](https://via.placeholder.com/800x450/1a0a2e/ffffff?text=WeatherApp+Preview)
+![Weather App Screenshot](https://drive.google.com/file/d/1RVvnfydiW3Zs980FWA6BvgpiJLKnDgu8/view?usp=sharing)
 
 ## ✨ Features
 
